@@ -1,6 +1,6 @@
-import AuthLogo from './extensions/my-logo.png'
-import MenuLogo from './extensions/logo.png'
-import favicon from './extensions/favicon.ico'
+import AuthLogo from '../extensions/my-logo.png'
+import MenuLogo from '../extensions/logo.png'
+import favicon from '../extensions/favicon.ico'
 
 export default {
   config: {
