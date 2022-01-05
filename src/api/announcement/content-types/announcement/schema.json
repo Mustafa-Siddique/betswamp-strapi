@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "announcements",
+  "info": {
+    "singularName": "announcement",
+    "pluralName": "announcements",
+    "displayName": "Announcement"
+  },
+  "options": {
+    "draftAndPublish": false
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Title": {
+      "type": "string",
+      "required": true
+    },
+    "Date": {
+      "type": "date",
+      "required": false
+    },
+    "Author": {
+      "type": "string",
+      "required": false
+    },
+    "Description": {
+      "type": "richtext",
+      "required": true
+    }
+  }
+}
