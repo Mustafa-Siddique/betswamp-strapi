@@ -19,13 +19,14 @@
     "Description": {
       "type": "richtext"
     },
-    "video": {
-      "type": "media",
-      "multiple": false,
-      "required": false,
-      "allowedTypes": [
-        "videos"
-      ]
+    "VideoID": {
+      "type": "string",
+      "unique": true,
+      "required": true
+    },
+    "Status": {
+      "type": "boolean",
+      "required": true
     }
   }
 }
