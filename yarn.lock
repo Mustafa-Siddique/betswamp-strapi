@@ -3690,16 +3690,6 @@
   "resolved" "https://registry.npmjs.org/csstype/-/csstype-3.0.10.tgz"
   "version" "3.0.10"
 
-"csv-parse@^4.15.3":
-  "integrity" "sha512-cO1I/zmz4w2dcKHVvpCr7JVRu8/FymG5OEpmvsZYlccYolPBLoVGKUHgNoc4ZGkFeFlWGEDmMyBM+TTqRdW/wg=="
-  "resolved" "https://registry.npmjs.org/csv-parse/-/csv-parse-4.16.3.tgz"
-  "version" "4.16.3"
-
-"csv-string@^4.0.1":
-  "integrity" "sha512-nCdK+EWDbqLvZ2MmVQhHTmidMEsHbK3ncgTJb4oguNRpkmH5OOr+KkDRB4nqsVrJ7oK0AdO1QEsBp0+z7KBtGQ=="
-  "resolved" "https://registry.npmjs.org/csv-string/-/csv-string-4.0.1.tgz"
-  "version" "4.0.1"
-
 "dashdash@^1.12.0":
   "integrity" "sha1-hTz6D3y+L+1d4gMmuN1YEDX24vA="
   "resolved" "https://registry.npmjs.org/dashdash/-/dashdash-1.14.1.tgz"
@@ -7979,11 +7969,6 @@
   "resolved" "https://registry.npmjs.org/pretty-time/-/pretty-time-1.1.0.tgz"
   "version" "1.1.0"
 
-"prismjs@^1.23.0":
-  "integrity" "sha512-WCjJHl1KEWbnkQom1+SzftbtXMKQoezOCYs5rECqMN+jP+apI7ftoflyqigqzopSO3hMhTEb0mFClA8lkolgEg=="
-  "resolved" "https://registry.npmjs.org/prismjs/-/prismjs-1.25.0.tgz"
-  "version" "1.25.0"
-
 "process-nextick-args@~2.0.0":
   "integrity" "sha512-3ouUOpQhtgrbOa17J7+uxOTpITYWaGP7/AhoR3+A+/1e9skrzelGi/dXzEYyvbxubEF6Wn2ypscTKiKJFFn1ag=="
   "resolved" "https://registry.npmjs.org/process-nextick-args/-/process-nextick-args-2.0.1.tgz"
@@ -8177,16 +8162,6 @@
     "object-assign" "^4.1.1"
     "scheduler" "^0.20.2"
 
-"react-dom@^16.0.0":
-  "integrity" "sha512-1gCeQXDLoIqMgqD3IO2Ah9bnf0w9kzhwN5q4FGnHZ67hBm9yePzB5JJAIQCc8x3pFnNlwFq4RidZggNAAkzWWw=="
-  "resolved" "https://registry.npmjs.org/react-dom/-/react-dom-16.14.0.tgz"
-  "version" "16.14.0"
-  dependencies:
-    "loose-envify" "^1.1.0"
-    "object-assign" "^4.1.1"
-    "prop-types" "^15.6.2"
-    "scheduler" "^0.19.1"
-
 "react-error-boundary@3.1.1":
   "integrity" "sha512-W3xCd9zXnanqrTUeViceufD3mIW8Ut29BUD+S2f0eO2XCOU8b6UrJfY46RDGe5lxCJzfe4j0yvIfh0RbTZhKJw=="
   "resolved" "https://registry.npmjs.org/react-error-boundary/-/react-error-boundary-3.1.1.tgz"
@@ -8337,11 +8312,6 @@
   "resolved" "https://registry.npmjs.org/react-side-effect/-/react-side-effect-2.1.1.tgz"
   "version" "2.1.1"
 
-"react-simple-code-editor@^0.11.0":
-  "integrity" "sha512-xGfX7wAzspl113ocfKQAR8lWPhavGWHL3xSzNLeseDRHysT+jzRBi/ExdUqevSMos+7ZtdfeuBOXtgk9HTwsrw=="
-  "resolved" "https://registry.npmjs.org/react-simple-code-editor/-/react-simple-code-editor-0.11.0.tgz"
-  "version" "0.11.0"
-
 "react-tooltip@4.2.18":
   "integrity" "sha512-MBdWuH925GL2ai5TWJelVJD9Opfk+3cLw0SP0rXR7s2RcNb7FefaNmljFndqYo8ghVcIEj5yM7aqV5Ith2bnqg=="
   "resolved" "https://registry.npmjs.org/react-tooltip/-/react-tooltip-4.2.18.tgz"
@@ -8389,15 +8359,6 @@
   dependencies:
     "loose-envify" "^1.1.0"
     "object-assign" "^4.1.1"
-
-"react@^16.0.0", "react@^16.14.0":
-  "integrity" "sha512-0X2CImDkJGApiAlcf0ODKIneSwBPhqJawOa5wCtKbu7ZECrmS26NvtSILynQ66cgkT/RJ4LidJOc3bUESwmU8g=="
-  "resolved" "https://registry.npmjs.org/react/-/react-16.14.0.tgz"
-  "version" "16.14.0"
-  dependencies:
-    "loose-envify" "^1.1.0"
-    "object-assign" "^4.1.1"
-    "prop-types" "^15.6.2"
 
 "readable-stream@^2.0.1":
   "integrity" "sha512-Ebho8K4jIbHAxnuxi7o42OrZgF/ZTNcsZj6nRKyUmkhLFq8CHItp/fy6hQZuZmP/n3yZ9VBUbp4zz/mX8hmYPw=="
@@ -8905,14 +8866,6 @@
   "integrity" "sha1-e45lYZCyKOgaZq6nSEgNgozS03o="
   "resolved" "https://registry.npmjs.org/sax/-/sax-1.2.1.tgz"
   "version" "1.2.1"
-
-"scheduler@^0.19.1":
-  "integrity" "sha512-n/zwRWRYSUj0/3g/otKDRPMh6qv2SYMWNq85IEa8iZyAv8od9zDYpGSnpBEjNgcMNq6Scbu5KfIPxNF72R/2EA=="
-  "resolved" "https://registry.npmjs.org/scheduler/-/scheduler-0.19.1.tgz"
-  "version" "0.19.1"
-  dependencies:
-    "loose-envify" "^1.1.0"
-    "object-assign" "^4.1.1"
 
 "scheduler@^0.20.2":
   "integrity" "sha512-2eWfGgAqqWFGqtdMmcL5zCMK1U8KlXv8SQFGglL3CEtd0aDVDWgeF/YoCmvln55m5zSk3J/20hTaSBeSObsQDQ=="
@@ -9470,16 +9423,6 @@
   "version" "2.3.1"
   dependencies:
     "ci-info" "^3.1.1"
-
-"strapi-plugin-import-export-content@^0.4.2":
-  "integrity" "sha512-Fdhcy4s07rDs3SoF2hP5kaDRKuYskaid029DxNuvl8PvQDlUUWiJNyEziopakH+xSvcnptkcaN2UmjJk71goWg=="
-  "resolved" "https://registry.npmjs.org/strapi-plugin-import-export-content/-/strapi-plugin-import-export-content-0.4.2.tgz"
-  "version" "0.4.2"
-  dependencies:
-    "csv-parse" "^4.15.3"
-    "csv-string" "^4.0.1"
-    "prismjs" "^1.23.0"
-    "react-simple-code-editor" "^0.11.0"
 
 "strapi-provider-upload-do@^3.6.6":
   "integrity" "sha512-m24sgMnau6vKpstl5hMHXTbnkkOka0NVnzfEfl9b8b4vVpcil7VXQ/1hT6RZYRwKEBPO1tJzx8ZJ2RS0deuM9A=="
